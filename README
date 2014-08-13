@@ -1,0 +1,9 @@
+The files' meaning:
+./README		     You are reading this
+./lightbeamData.json	     Merge into this collection 
+./buffer/make_it_private.asc Encrypt your data with this public key,
+			     if you concern about free speech,
+			     I will merge them by myself
+./buffer/		     Where you _only_ push your encrypted data into
+
+And that's all, let's build the BIG one ;)
