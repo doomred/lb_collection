@@ -1,17 +1,9 @@
-The files' meaning:
-<<<<<<< HEAD
+The files:
 ./README		     You are reading this
 ./lightbeamData.json	     Merge into this collection 
 ./buffer/make_it_private.asc Encrypt your data with this public key,
 			     if you concern about free speech,
 			     I will merge them by myself
 ./buffer/		     Where you _only_ push your encrypted data into
-=======
-./README			/* You are reading this */
-./lightbeamData.json		/* merge into this collection one */
-./buffer/make_it_private.asc	/* encrypt your data with this public key and push your data into . */
-				/* I will merge into the collection by myself */
-./buffer/			/* where you _only_ push your encrypted data into */
->>>>>>> 70342d7b2fb5d9ae4e02a89aa9d6a12b5326a1a4
 
 And that's all, let's build the BIG one ;)
